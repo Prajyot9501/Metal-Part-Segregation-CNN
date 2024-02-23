@@ -28,10 +28,10 @@ To enhance the model's robustness and its ability to generalize across various w
 ### Collection of different metal parts for training and testing the model
 ![Metal-parts](https://github.com/Prajyot9501/Metal-Part-Segregation-CNN/assets/60104217/1518e644-b2ed-4813-a65d-5a5fbd7760f8)
 
-### Conveyer Belf system with PLC
+### Conveyer Belt system with PLC
 ![WhatsApp Image 2024-02-19 at 23 18 48](https://github.com/Prajyot9501/Metal-Part-Segregation-CNN/assets/60104217/5fd9ca63-bf98-4a87-b1bc-abf015de90b8)
 
-### FBD for PLC 
+### PLC's FBD for DC motor's operation
 ![WhatsApp Image 2024-02-22 at 16 14 59](https://github.com/Prajyot9501/Metal-Part-Segregation-CNN/assets/60104217/44333ed9-d89d-4833-818b-9e2c18e8fb47)
 
 
